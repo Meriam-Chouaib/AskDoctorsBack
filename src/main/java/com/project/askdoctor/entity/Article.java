@@ -80,7 +80,7 @@ public class Article {
     }
 
     public void setUser(User user) {
-        this.user = user;
+        this.user = user;dd
     }
     */
     
